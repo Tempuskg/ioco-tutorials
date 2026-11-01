@@ -1,0 +1,35 @@
+IOCO TUTORIAL SAMPLE - LICENSE
+
+Copyright (c) 2026 Tempuskg
+
+This license covers every file in this archive: the EShopLayered sample
+application, the setup scripts (setup-sample.sh, setup-sample.ps1), the tutorial
+change file (samples/SmtpEmailSender.cs) and this archive's README.md.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+This license (the MIT License) applies only to the sample in this archive. It
+does not cover IOCO itself - the analysis engine, the CLI and the editor
+extensions - which is licensed separately under the IOCO End User License
+Agreement that comes with it.
+
+The sample is an original, small application written for the IOCO tutorials.
+It follows the layout of Microsoft's eShopOnWeb reference application but does
+not contain its code. "eShopOnWeb" is named for orientation only.
