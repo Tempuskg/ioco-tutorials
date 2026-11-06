@@ -6,7 +6,13 @@ Use Windows x64, Git (including Git Bash), and the .NET 8 runtime or later.
 The SDK and IOCO source repository are not required. See the Marketplace listing
 for validated preview hosts, and Tutorial 1 for the bundled CLI shell function.
 
-These are preview tutorials. A clean-machine end-to-end pass is still pending.
+These are preview tutorials. The CLI walkthrough completed on 6 Nov 2026 in a fresh
+Windows x64 Sandbox (build 26100), using the public sample download, VS Code 1.142.0,
+the Marketplace extension and .NET runtime 8.0.33, with no SDK or IOCO source repository.
+Editor mapping, serving-file grouping, declaration navigation, automatic refresh and
+the seven-URL Pro lookup were reported as successful by the maintainer. Tutorial 3
+includes the sample-local Git identity setup discovered during this walkthrough.
+This verification does not expand the Marketplace listing's supported-host claims.
 
 1. [From a bug report URL to its code](01-trace-a-url-to-its-code.md) — Community.
 2. [Review a shared-service change](02-review-a-shared-service-change.md) — Pro trial.

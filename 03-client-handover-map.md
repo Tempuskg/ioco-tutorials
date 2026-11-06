@@ -1,6 +1,6 @@
 # Tutorial 3: A handover map for the team that takes over
 
-> **Status:** preview tutorial; clean-machine end-to-end verification is pending.
+> **Status:** preview tutorial for IOCO View 0.1.0; see the README for recorded verification.
 > **Edition:** Community (free) for every step except the optional change report in
 > step 5, which needs Pro or the trial. **Time to follow:** about 20 minutes.
 
@@ -38,6 +38,17 @@ client's repository.
   then continue in Git Bash.
 - For the optional step 5 only, the Pro trial or a signed Pro license; see
   [Tutorial 2](02-review-a-shared-service-change.md#what-you-need).
+
+The handover steps create local Git commits. On a clean machine, configure a sample-only
+identity from inside `client-shop` before continuing:
+
+```sh
+git config user.name "IOCO tutorial"
+git config user.email "tutorial@example.invalid"
+```
+
+These settings apply only to this sample repository. For your own app, use your normal
+Git author identity instead.
 
 ## 1. Record the settings everyone will map with
 

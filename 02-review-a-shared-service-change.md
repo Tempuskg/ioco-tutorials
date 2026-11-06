@@ -1,6 +1,6 @@
 # Tutorial 2: Which URLs does a shared-service change touch?
 
-> **Status:** preview tutorial; clean-machine end-to-end verification is pending.
+> **Status:** preview tutorial for IOCO View 0.1.0; see the README for recorded verification.
 > **Edition:** Pro. `ioco review` (steps 3 and 5) needs the free 14-day Pro trial (no
 > card) or a signed Pro license. Steps 1, 2 and 4 work in Community. **Time to follow:** about 20 minutes.
 

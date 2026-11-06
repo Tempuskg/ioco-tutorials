@@ -1,6 +1,6 @@
 # Tutorial 1: From a bug report URL to the code that serves it
 
-> **Status:** preview tutorial; clean-machine end-to-end verification is pending.
+> **Status:** preview tutorial for IOCO View 0.1.0; see the README for recorded verification.
 > **Edition:** Community (free). **Time to follow:** about 15 minutes.
 
 A support ticket arrives with a URL and nothing else. In a layered ASP.NET Core app the
